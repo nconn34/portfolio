@@ -1,4 +1,16 @@
+.header {
+  text-align: center;
+  margin: 24px;
+  border: 2px solid green;
+  padding: 4px;
+}
+
 .column {
     width: 300px;
-    float: left;
+    float:right;
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
   }
+  
