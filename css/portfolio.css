@@ -1,16 +1,34 @@
+body {
+  background-color: lightskyblue;
+}
 .header {
   text-align: center;
   margin: 24px;
-  border: 2px solid green;
+  border: 2px solid rgb(104, 40, 90);
+  border-width: 20px;
   padding: 4px;
 }
 
 .column {
-    width: 300px;
-    float:right;
-    align-content: center;
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-  }
+  width: 300px;
+  float:right;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
   
+h1 {
+  text-align: center;
+  margin: 24px;
+  border: 2px solid rgb(21, 185, 21);
+  border-width: 30px;
+  padding: 4px solid rgb(105, 104, 104);
+  background-color: lightslategrey;
+}
+
+h2 {
+    text-align: center;
+    margin: 24px;
+    border: 2px solid green;
+    padding: 4p 
+}
