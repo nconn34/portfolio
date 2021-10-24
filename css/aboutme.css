@@ -26,6 +26,14 @@ h1 {
 p {
   font-weight: 900;
 }
-.Right {
-  float: left;
+
+figure1 {
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: rgb(130, 159, 197);
+  padding: 5px;
+  width: 500px;
+  float:right;
+  text-align: center;
+  font-family: sans-serif;
 }
