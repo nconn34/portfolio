@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color:rgb(42, 101, 124);
+}
+
+.box1 {
+    text-align: center;
+    width: 620px;
+    padding: 10px;
+    border: 5px solid rgb(161, 161, 161);
+    margin: auto;
+}
