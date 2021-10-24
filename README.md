@@ -26,7 +26,7 @@ You will want to clone this from the repository as is!
 
 ## Known Bugs
 
-* No bugs- they said the perfect code couldn't be written...muahahahaha
+* No bugs known thus far, however the display does change spacing depending on which monitor I am viewing it on. On my old 720p LG screen the width of the columns and boxes on the landing page require different sizing specs than the 4k monitor sitting next to it, which stands to reason, however am looking for a fix to stabilize that screen ratio between devices.
 
 ## License
 
