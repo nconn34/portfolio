@@ -26,7 +26,7 @@ You will want to clone this from the repository as is!
 
 ## Known Bugs
 
-* No bugs- they said the perfect code couldn't be written...
+* No bugs- they said the perfect code couldn't be written...muahahahaha
 
 ## License
 
