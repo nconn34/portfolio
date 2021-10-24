@@ -1,0 +1,24 @@
+figure {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: rgb(130, 159, 197);
+  padding: 5px;
+  width: 500px;
+  float:left;
+  text-align: center;
+  font-family: sans-serif;
+}
+img {
+    border-radius: 4px;
+    background-color: rgb(130, 159, 197);
+    padding: 5px;
+    width: 490px;
+    float: left;
+}
+body {
+  background-color: rgb(42, 101, 124);
+}
+
+h1 {
+  text-align: center;
+}
