@@ -1,5 +1,6 @@
 body {
   background-color: lightskyblue;
+  text-align: center;
 }
 .header {
   text-align: center;
@@ -10,11 +11,9 @@ body {
 }
 
 .column {
-  width: 300px;
+  width: 340px;
   float:right;
-  align-content: center;
-  display: flex;
-  flex-wrap: wrap;
+  text-align: center;
 }
   
 h1 {
@@ -29,6 +28,5 @@ h1 {
 h2 {
     text-align: center;
     margin: 24px;
-    border: 2px solid green;
-    padding: 4p 
+    border: 10px solid rgb(104, 40, 90);
 }
