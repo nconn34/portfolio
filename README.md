@@ -17,9 +17,7 @@ A webpage with links to other webpages which includes an About Me section and ph
 
 ## Setup/Installation Requirements
 
-* Windows XP
-* Unleaded Diesel
-* Apple OS 3.2.11
+* Any browser, with a preference for Chrome
 
 
 You will want to clone this from the repository as is!
