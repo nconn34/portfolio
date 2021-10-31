@@ -1,6 +1,6 @@
 Programming Portfolio:Nathan Conn 
 
-Nathan Conn, Elon Gates
+Nathan Conn
 
 This is a webpage dedicated to showcasing the growing resume and programming portfolio of Nathan Conn.
 
@@ -19,6 +19,8 @@ A webpage with links to other webpages which includes an About Me section and ph
 
 * Any browser, with a preference for Chrome
 
+* Use this link: https://nconn34.github.io/portfolio/
+
 
 You will want to clone this from the repository as is!
 
@@ -30,4 +32,4 @@ You will want to clone this from the repository as is!
 
 If you have any questions please use the contact information provided on the website. If the website is down, which is impossible, then pray that humanity is not also ending as well.
 
-Copyright (c) 10/24/2021 Nathan Conn
+Copyright (c) 10/30/2021 Nathan Conn
