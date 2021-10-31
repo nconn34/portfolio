@@ -30,6 +30,6 @@ You will want to clone this from the repository as is!
 
 ## License
 
-If you have any questions please use the contact information provided on the website. If the website is down, which is impossible, then pray that humanity is not also ending as well.
+If you have any questions please use the contact information provided on the website.
 
 Copyright (c) 10/30/2021 Nathan Conn
